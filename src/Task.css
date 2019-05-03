@@ -1,0 +1,22 @@
+.striked{
+    text-decoration: line-through;
+}
+
+p{
+    display: inline;
+    padding-top:75;
+}
+
+.strikerer{
+    border-radius: 50%;
+      display: inline-block;
+
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  box-shadow: 0 3px #999;
+}
